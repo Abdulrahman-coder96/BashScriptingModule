@@ -17,6 +17,8 @@ Handle division by zero
 
 My Solution
 
+<img width="582" height="421" alt="Screenshot 2026-11-23 215335" src="https://github.com/user-attachments/assets/2660ffcf-2dd9-4a54-95aa-b91925cf0110" />
+
 
 
 
